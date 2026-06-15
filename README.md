@@ -1,37 +1,54 @@
-# Password_Manager
-<b>Author: </b><u>Priyanshu</u> (YiralcrafT)
-<br>
+# 🔒 Password Manager
 
-This is my first GitHub repository 😁. I was thinking about what project should I upload first, and then I remembered that I had build a Password Manager🔒 project in Python few weeks ago.
-<br>
-<p>
-I created this Password Manager project to improve my Python programming skills and gain hands-on experience with real-world applications. Through this project, I explored various Python modules, file handling, encryption techniques, and password security concepts.
+**Author:** Priyanshu (*YiralcrafT*)
+
+This is my first GitHub repository 😁. I was thinking about what project I should upload first, and then I remembered the Password Manager project I built in Python a few weeks ago.
+
+## About the Project
+
+I created this Password Manager project to improve my Python programming skills and gain hands-on experience with real-world applications. Through this project, I explored file handling, encryption techniques, password security concepts, and various Python modules.
 
 While this project was primarily created for learning purposes, it demonstrates my understanding of Python fundamentals, modular programming, and basic cybersecurity concepts.
-</p>
-<br>
 
-<b>A secure password manager built with Python.<b>
+**A secure password manager built with Python.**
 
-<p>
-## Features<br>
-- Password encryption<br>
-- PIN authentication<br>
-- JSON-based storage<br>
-- Add, view, rename, and delete passwords<br>
+## Features
+
+* 🔐 Password encryption
+* 🔑 PIN authentication
+* 📁 JSON-based storage
+* ➕ Add passwords
+* 👀 View passwords
+* ✏️ Rename entries
+* 🗑️ Delete entries
+* 📋 Copy passwords to clipboard
 
 ## Requirements
--->Import/Must to have Modules<br>
-from cryptography.fernet import Fernet<br>
-import bcrypt<br>
-import json<br>
-import os<br>
-import subprocess<br>
-import sys<br>
--->To Copy Passwrod<br>
-import pyperclip<br>
--->For Styling and Intractive feling<br>
-from colorama import Fore, Style, init <br>
-import time<br>
 
-</p>
+### Required Modules
+
+```python
+from cryptography.fernet import Fernet
+import bcrypt
+import json
+import os
+import subprocess
+import sys
+```
+
+### Clipboard Support
+
+```python
+import pyperclip
+```
+
+### Styling & Interactive Experience
+
+```python
+from colorama import Fore, Style, init
+import time
+```
+
+## Note
+
+This project was created for educational purposes and to improve my understanding of Python, encryption, and secure data handling.
