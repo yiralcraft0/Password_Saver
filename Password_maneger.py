@@ -1,13 +1,15 @@
-# Imports-------------
+# Imports----------------------------------------
+# Must install Modules------
 from cryptography.fernet import Fernet
 from colorama import Fore, Style, init
-import time
 import bcrypt
+import pyperclip
+# Already Installed In Python
+import time
 import json
 import os
 import subprocess
 import sys
-import pyperclip
 
 # Initialize colorama
 init(autoreset=True)
