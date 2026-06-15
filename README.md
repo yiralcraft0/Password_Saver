@@ -1,4 +1,10 @@
 # Password_Saver
 This is my firsh Git Repository😁.
 <br>
-<b>Author: </b><u>Priyanshu</u>(YiralcrafT)
+<b>Author: </b><u>Priyanshu</u> (YiralcrafT)
+<br>
+<p>
+I created this Password Manager project to improve my Python programming skills and gain hands-on experience with real-world applications. Through this project, I explored various Python modules, file handling, encryption techniques, and password security concepts.
+
+While this project was primarily created for learning purposes, it demonstrates my understanding of Python fundamentals, modular programming, and basic cybersecurity concepts.
+</p>
