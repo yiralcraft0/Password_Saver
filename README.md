@@ -14,11 +14,11 @@ While this project was primarily created for learning purposes, it demonstrates 
 <b>A secure password manager built with Python.<b>
 
 <p>
-## Features
-- Password encryption
-- PIN authentication
-- JSON-based storage
-- Add, view, rename, and delete passwords
+## Features<br>
+- Password encryption<br>
+- PIN authentication<br>
+- JSON-based storage<br>
+- Add, view, rename, and delete passwords<br>
 
 ## Requirements
 <!-- Import/Must to have Modules -->
