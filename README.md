@@ -1,4 +1,4 @@
-# Password_Saver
+# Password_Manager
 <b>Author: </b><u>Priyanshu</u> (YiralcrafT)
 <br>
 This is my first GitHub repository 😁. I was thinking about what project should I upload first, and then I remembered that I had build a Password Manager🔒 project in Python few weeks ago.
