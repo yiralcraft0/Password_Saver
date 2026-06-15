@@ -11,9 +11,9 @@ While this project was primarily created for learning purposes, it demonstrates 
 </p>
 <br>
 
-<p>
 <b>A secure password manager built with Python.<b>
 
+<p>
 ## Features
 - Password encryption
 - PIN authentication
@@ -21,7 +21,7 @@ While this project was primarily created for learning purposes, it demonstrates 
 - Add, view, rename, and delete passwords
 
 ## Requirements
-<!-- Import/Must Modules -->
+<!-- Import/Must to have Modules -->
 from cryptography.fernet import Fernet
 import bcrypt
 import json
@@ -33,4 +33,5 @@ import pyperclip
 <!-- For Styling and Intractive feling -->
 from colorama import Fore, Style, init 
 import time
+
 </p>
